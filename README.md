@@ -49,7 +49,7 @@ This will not be a traditional lecture course, but one where students help lead 
 
 Most of learning in the class will be through the execution of group projects or homework assignments. Students are encouraged to work in groups of two (or maybe three), and also to collaborate across groups. 
 
-* Assignment 1
+* [Assignment 1](https://github.com/ewpeng/PKUGalaxies16/blob/master/Assignment01.md)
 
 **Debates**
 
