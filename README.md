@@ -42,11 +42,14 @@ This will not be a traditional lecture course, but one where students help lead 
 
 **References**
    * [Galaxy Formation and Evolution](http://www.amazon.com/Galaxy-Formation-Evolution-Houjun-Mo/dp/0521857937), by Houjun Mo, Frank van den Bosch, and Simon White - This will be the main textbook for the class.
+   * [Statistics, Data Mining, and Machine Learning in Astronomy](https://www.amazon.cn/Statistics-Data-Mining-and-Machine-Learning-in-Astronomy-A-Practical-Python-Guide-for-the-Analysis-of-Survey-Data-Ivezic-Zeljko/dp/0691151687)
    * [Astrophysics Data Service (ADS)](http://adsabs.harvard.edu/abstract_service.html)
 
 **Projects and Assignments**
 
 Most of learning in the class will be through the execution of group projects or homework assignments. Students are encouraged to work in groups of two (or maybe three), and also to collaborate across groups. 
+
+* Assignment 1
 
 **Debates**
 
@@ -64,4 +67,4 @@ Final Exam: 20%
 
 **Schedule**
 
-This class meets every Monday, 1:30-4pm, with a break at 3pm for KIAA coffee/tea. There will be no class on October 5 (National Day holiday) and October 19 (Chinese Astronomical Society annual meeting held at PKU). A makeup date will be scheduled for the October 19th class.
+This class meets every Tuesday, 1:30-4pm. There will be no class on September 27 and October 4 (National Day holiday).
