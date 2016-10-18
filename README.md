@@ -71,4 +71,4 @@ Final Exam: 20%
 
 **Schedule**
 
-This class meets every Tuesday, 1:30-4pm. There will be no class on September 27 and October 4 (National Day holiday).
+This class meets every Tuesday, 1:30-4pm. There will be no class on September 27, October 4 (National Day holiday), October 11, and November 29.
