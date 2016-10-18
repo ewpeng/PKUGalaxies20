@@ -47,13 +47,22 @@ This will not be a traditional lecture course, but one where students help lead 
 
 **Lectures**
 
-* [Lecture 1](https://kiaa.pku.edu.cn/~peng/teaching/galaxies16/Lecture01-2016.pdf)
+* September 13: [Lecture 1](https://kiaa.pku.edu.cn/~peng/teaching/galaxies16/Lecture01-2016.pdf)
+* October 18: [Lecture 2](https://kiaa.pku.edu.cn/~peng/teaching/galaxies16/Lecture02-2016.pdf)
+* October 25
+* November 1
+* November 8
+* November 15
+* November 22
+* November 29
+* December 6
+* December 13
 
 **Projects and Assignments**
 
 Most of learning in the class will be through the execution of group projects or homework assignments. Students are encouraged to work in groups of two (or maybe three), and also to collaborate across groups. 
 
-* [Assignment 1](https://github.com/ewpeng/PKUGalaxies16/blob/master/Assignment01.md)
+* [Assignment 1](https://github.com/ewpeng/PKUGalaxies16/blob/master/Assignment01.md): Due September 30
 
 **Debates**
 
