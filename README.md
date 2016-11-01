@@ -7,7 +7,7 @@
 **Course Description**
 
 
-This course is aimed at the first-year graduate student in astronomy, or advanced undergraduate astronomy majors. The goal of this class is for students to gain a working knowledge of the current state of research in the field of galaxy formation and evolution. By the end of the class, the student should be able to understand the context of any colloquium-level research presentation or conference review on galaxies, and to conduct small research projects in the field. 
+This course is aimed at the first-year graduate student in astronomy, or advanced undergraduate astronomy majors. The goal of this class is for students to gain a working knowledge of the current state of research in the field of galaxy formation and evolution. By the end of the class, the student should be able to understand the context of any colloquium-level research presentation or conference review on galaxies, and to conduct small research projects in the field.
 
 This class is structured around student-led projects, student presentations, and end-of-semester debates. It is not the goal of this class to expose students to every topic in the field, but rather to explore a few important concepts in depth, and to encourage students to explore tangential material. The working languages of this class are English and Python. Students should bring their laptop computers to class.
 
@@ -60,7 +60,7 @@ This will not be a traditional lecture course, but one where students help lead 
 
 **Projects and Assignments**
 
-Most of learning in the class will be through the execution of group projects or homework assignments. Students are encouraged to work in groups of two (or maybe three), and also to collaborate across groups. 
+Most of learning in the class will be through the execution of group projects or homework assignments. Students are encouraged to work in groups of two (or maybe three), and also to collaborate across groups.
 
 * [Assignment 1](https://github.com/ewpeng/PKUGalaxies16/blob/master/Assignment01.md): Due September 30
 * [Assignment 2](https://github.com/ewpeng/PKUGalaxies16/blob/master/Assignment02.md): Due November 8
