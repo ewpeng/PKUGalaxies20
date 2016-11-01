@@ -49,14 +49,14 @@ This will not be a traditional lecture course, but one where students help lead 
 
 * September 13: [Lecture 1](https://kiaa.pku.edu.cn/~peng/teaching/galaxies16/Lecture01-2016.pdf)
 * October 18: [Lecture 2](https://kiaa.pku.edu.cn/~peng/teaching/galaxies16/Lecture02-2016.pdf)
-* October 25
-* November 1
-* November 8
+* October 25: Stellar Population Synthesis (I)
+* November 1: Stellar Population Synthesis (II)
+* November 8: [Lecture 4](https://kiaa.pku.edu.cn/~peng/teaching/galaxies16/Lecture04-2016.pdf)
 * November 15
-* November 22
+* November 22: Select debate topics
 * November 29
 * December 6
-* December 13
+* December 13: Debates
 
 **Projects and Assignments**
 
