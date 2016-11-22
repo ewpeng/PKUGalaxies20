@@ -57,7 +57,7 @@ This will not be a traditional lecture course, but one where students help lead 
 * November 29: No class
 * December 6: 
 * December 13: Debates
-* January TBD: Fina Exam
+* January TBD: Final Exam
 
 **Projects and Assignments**
 
