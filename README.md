@@ -53,10 +53,11 @@ This will not be a traditional lecture course, but one where students help lead 
 * November 1: Stellar Population Synthesis (II)
 * November 8: [The Properties of Local Galaxies (I)](https://kiaa.pku.edu.cn/~peng/teaching/galaxies16/Lecture04-2016.pdf)
 * November 15: [The Properties of Local Galaxies (II)](https://kiaa.pku.edu.cn/~peng/teaching/galaxies16/Lecture05-2016.pdf)
-* November 22: The Milky Way; Select debate topics
+* November 22: [The Milky Way and Local Group](https://kiaa.pku.edu.cn/~peng/teaching/galaxies16/Lecture06-2016.pdf); Select debate topics
 * November 29: No class
 * December 6: 
 * December 13: Debates
+* January TBD: Fina Exam
 
 **Projects and Assignments**
 
@@ -68,6 +69,13 @@ Most of learning in the class will be through the execution of group projects or
 **Debates**
 
 At the end of the semester, we will hold debates between student groups (size of two or three). These debates will roughly 45 min long, and will be on topics of current relevance in the field of galaxy evolution and formation. The format of the debate will be as follows: each side will present their case, present a rebuttal, and be open to questions from the other side and the audience. The audience will decide the winner of the debate.
+
+Debate topics:
+* Cold dark matter cannot explain observations of galaxies on small scales
+* Accretion (minor merging) is important in the formation of thick disks
+* AGN feedback is the primary quenching mechanism for massive galaxies
+* Galaxy mergers are the main driver of morphological evolution
+* The stellar initial mass function is not universal
 
 **Grading**
 
