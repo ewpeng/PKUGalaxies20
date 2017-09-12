@@ -1,6 +1,6 @@
 # Introduction and Syllabus for Galactic Astronomy
 
-**Course:** Galactic Astronomy - Fall, 2016
+**Course:** Galactic Astronomy - Fall, 2017
 
 **Instructors:** Prof. [Eric Peng 彭逸西](http://kiaa.pku.edu.cn/~peng) <peng@pku.edu.cn>, Mr. Hua Gao 高桦 <gaohua@pku.edu.cn>
 
