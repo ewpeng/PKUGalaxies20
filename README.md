@@ -2,14 +2,14 @@
 
 **Course:** Galactic Astronomy - Fall, 2016
 
-**Instructors:** Prof. [Eric Peng 彭逸西](http://kiaa.pku.edu.cn/~peng) <peng@pku.edu.cn>, Ms. Yulin Zhao 赵玉琳 <yulinzhao@pku.edu.cn>
+**Instructors:** Prof. [Eric Peng 彭逸西](http://kiaa.pku.edu.cn/~peng) <peng@pku.edu.cn>, Mr. Hua Gao 高桦 <gaohua@pku.edu.cn>
 
 **Course Description**
 
 
 This course is aimed at the first-year graduate student in astronomy, or advanced undergraduate astronomy majors. The goal of this class is for students to gain a working knowledge of the current state of research in the field of galaxy formation and evolution. By the end of the class, the student should be able to understand the context of any colloquium-level research presentation or conference review on galaxies, and to conduct small research projects in the field.
 
-This class is structured around student-led projects, student presentations, and end-of-semester debates. It is not the goal of this class to expose students to every topic in the field, but rather to explore a few important concepts in depth, and to encourage students to explore tangential material. The working languages of this class are English and Python. Students should bring their laptop computers to class.
+This class is structured around student-led projects, student presentations, and end-of-semester debates. It is not the goal of this class to expose students to every topic in the field, but rather to explore a few important concepts in depth, and to encourage students to explore tangential material. The working languages of this class are English and Python. 
 
 **Prerequisites**
 
@@ -47,24 +47,25 @@ This will not be a traditional lecture course, but one where students help lead 
 
 **Lectures**
 
-* September 13: [Lecture 1](https://kiaa.pku.edu.cn/~peng/teaching/galaxies16/Lecture01-2016.pdf)
-* October 18: [Lecture 2](https://kiaa.pku.edu.cn/~peng/teaching/galaxies16/Lecture02-2016.pdf)
-* October 25: Stellar Population Synthesis (I)
-* November 1: Stellar Population Synthesis (II)
-* November 8: [The Properties of Local Galaxies (I)](https://kiaa.pku.edu.cn/~peng/teaching/galaxies16/Lecture04-2016.pdf)
-* November 15: [The Properties of Local Galaxies (II)](https://kiaa.pku.edu.cn/~peng/teaching/galaxies16/Lecture05-2016.pdf)
-* November 22: [The Milky Way and Local Group](https://kiaa.pku.edu.cn/~peng/teaching/galaxies16/Lecture06-2016.pdf); Select debate topics
-* November 29: No class
-* December 6: 
-* December 13: Debates
+* September 12: [Lecture 1](https://kiaa.pku.edu.cn/~peng/teaching/galaxies17/Lecture01-2017.pdf)
+* September 19: [Lecture 2](https://kiaa.pku.edu.cn/~peng/teaching/galaxies17/Lecture02-2017.pdf)
+* September 26: Stellar Population Synthesis (I)
+* October 9 (Monday): Stellar Population Synthesis (II)
+* October 17: [The Properties of Local Galaxies (I)](https://kiaa.pku.edu.cn/~peng/teaching/galaxies17/Lecture04-2017.pdf)
+* October 24: 
+* October 31:
+* November 7:
+* November 14: [The Properties of Local Galaxies (II)](https://kiaa.pku.edu.cn/~peng/teaching/galaxies17/Lecture05-2017.pdf)
+* November 28: [The Milky Way and Local Group](https://kiaa.pku.edu.cn/~peng/teaching/galaxies17/Lecture06-2017.pdf); Select debate topics
+* December 5: Debates
 * January TBD: Final Exam
 
 **Projects and Assignments**
 
 Most of learning in the class will be through the execution of group projects or homework assignments. Students are encouraged to work in groups of two (or maybe three), and also to collaborate across groups.
 
-* [Assignment 1](https://github.com/ewpeng/PKUGalaxies16/blob/master/Assignment01.md): Due September 30
-* [Assignment 2](https://github.com/ewpeng/PKUGalaxies16/blob/master/Assignment02.md): Due November 8
+* [Assignment 1](https://github.com/ewpeng/PKUGalaxies17/blob/master/Assignment01.md): Due September 19
+* [Assignment 2](https://github.com/ewpeng/PKUGalaxies17/blob/master/Assignment02.md): Due November 8
 
 **Debates**
 
@@ -90,4 +91,4 @@ Final Exam: 20%
 
 **Schedule**
 
-This class meets every Tuesday, 1:30-4pm. There will be no class on September 27, October 4 (National Day holiday), October 11, and November 29.
+This class meets every Tuesday, 1:30-4pm, except where noted differently on the schedule. 
