@@ -1,4 +1,4 @@
-Due: 8 November 2016
+Due: 17 October 2017
 
 Please make sure your homework has your name (both Chinese and pinyin). You are free to work with others in the class, but everyone should hand in their own assignment. You should submit your assignment either as a PDF document, or as a Jupyter notebook. No other format will be accepted. You may work in groups of 3 or fewer people.
 
