@@ -50,17 +50,17 @@ This will not be a traditional lecture course, but one where students help lead 
 * September 12: [Lecture 1](https://kiaa.pku.edu.cn/~peng/teaching/galaxies17/Lecture01-2017.pdf)
 * September 19: [Lecture 2](https://kiaa.pku.edu.cn/~peng/teaching/galaxies17/Lecture02-2017.pdf)
 * September 26: Stellar Population Synthesis (I)
-* October 9 (Monday): Stellar Population Synthesis (II)
+* October 9 (Monday): Stellar Population Synthesis (II); Select debate topics
 * October 17: [The Properties of Local Galaxies (I)](https://kiaa.pku.edu.cn/~peng/teaching/galaxies17/Lecture04-2017.pdf)
 * October 24: 
 * October 31:
 * November 7:
 * November 14: [The Properties of Local Galaxies (II)](https://kiaa.pku.edu.cn/~peng/teaching/galaxies17/Lecture05-2017.pdf)
-* November 28: [The Milky Way and Local Group](https://kiaa.pku.edu.cn/~peng/teaching/galaxies17/Lecture06-2017.pdf); Select debate topics
+* November 28: [The Milky Way and Local Group](https://kiaa.pku.edu.cn/~peng/teaching/galaxies17/Lecture06-2017.pdf)
 * December 5: Debates
 * January TBD: Final Exam
 
-**Projects and Assignments**
+**Projects, Assignments, and Reading**
 
 Most of learning in the class will be through the execution of group projects or homework assignments. Students are encouraged to work in groups of two (or maybe three), and also to collaborate across groups.
 
@@ -69,7 +69,7 @@ Most of learning in the class will be through the execution of group projects or
 
 **Debates**
 
-At the end of the semester, we will hold debates between student groups (size of two or three). These debates will roughly 45 min long, and will be on topics of current relevance in the field of galaxy evolution and formation. The format of the debate will be as follows: each side will present their case, present a rebuttal, and be open to questions from the other side and the audience. The audience will decide the winner of the debate. Potential topics:
+Toward the end of the semester, we will hold debates between student groups (size of two or three). These debates will roughly 45 min long, and will be on topics of current relevance in the field of galaxy evolution and formation. The format of the debate will be as follows: each side will present their case, present a rebuttal, and be open to questions from the other side and the audience. The audience will decide the winner of the debate. Potential topics:
 
 * Cold dark matter cannot explain observations of galaxies on small scales
 * Accretion (minor merging) is important in the formation of thick disks
