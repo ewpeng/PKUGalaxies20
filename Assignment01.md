@@ -4,7 +4,7 @@ Due: 19 September 2017
 
 Please make sure your homework has your name (both Chinese and pinyin). You are free to work with others in the class, but everyone should hand in their own assignment. You can submit your assignment either as a PDF document, or as a Jupyter notebook.
 
-0) **Download and read the [Week 1 Notes](http://kiaa.pku.edu.cn/~peng/teaching/galaxies16/Lecture01-2016.pdf).** This covers the basics of galaxies and some language of astrophysics. If you are new to astronomy, please pay close attention to the terminology, as we will use it often. For those of you who are not familiar with magnitudes, colors, filters, etc., I highly encourage you to look at the [SDSS exercise on color and light](http://skyserver.sdss.org/dr12/en/proj/advanced/color/colorhome.aspx).
+0) **Download and read the [Week 1 Notes](http://kiaa.pku.edu.cn/~peng/teaching/galaxies17/Lecture01-2017.pdf).** This covers the basics of galaxies and some language of astrophysics. If you are new to astronomy, please pay close attention to the terminology, as we will use it often. For those of you who are not familiar with magnitudes, colors, filters, etc., I highly encourage you to look at the [SDSS exercise on color and light](http://skyserver.sdss.org/dr12/en/proj/advanced/color/colorhome.aspx).
 
 1) **Install scientific Python.** If you don't already have Python (and associated scientific libraries) installed on your computer, do it! Whether you choose Python 2.7 or >3.3 is up to you, but I recommend Python 3.x if you are new to Python.
 You can try the instructions at [Python4Astronomers/Installing Scientific Python](https://python4astronomers.github.io/installation/python_install.html), or many other places online. 
