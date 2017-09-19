@@ -1,6 +1,6 @@
-Due: 17 October 2017
+Due: 9 October 2017
 
-Please make sure your homework has your name (both Chinese and pinyin). You are free to work with others in the class, but everyone should hand in their own assignment. You should submit your assignment either as a PDF document, or as a Jupyter notebook. No other format will be accepted. You may work in groups of 3 or fewer people.
+Please make sure your homework has your name (both Chinese and pinyin). You are free to work with others in the class, but everyone should submit their own assignment. You should submit your assignment as a Jupyter notebook, with PDF attachments if necessary. You may work in groups of 3 or fewer people.
 
 The spectral energy distributions (SEDs) of galaxies tell us about what they are made of, and how they evolved. One of the main constituents of galaxies (that we can see) is stars. Understanding "stellar populations" (star clusters, galaxies) is an important extension of our knowledge of stellar evolution. In this assignment, we will explore how our theoretical and empirical knowledge of stars and stellar evolution can tell us something about galaxies.
 
