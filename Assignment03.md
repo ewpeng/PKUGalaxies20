@@ -2,7 +2,7 @@ Due: 9 October 2017
 
 Please make sure your homework has your name (both Chinese and pinyin). You are free to work with others in the class, but everyone should submit their own assignment. You should submit your assignment as a Jupyter notebook, with PDF attachments if necessary. You may work in groups of 3 or fewer people.
 
-The spectral energy distributions (SEDs) of galaxies tell us about what they are made of, and how they evolved. One of the main constituents of galaxies (that we can see) is stars. Understanding "stellar populations" (star clusters, galaxies) is an important extension of our knowledge of stellar evolution. In this assignment, we will explore how our theoretical and empirical knowledge of stars and stellar evolution can tell us something about galaxies.
+The spectral energy distributions (SEDs) of galaxies tell us about what they are made of, and how they evolved. One of the main constituents of galaxies that we can see is stars. Understanding "stellar populations" (star clusters, galaxies) is an important extension of our knowledge of stellar evolution. In this assignment, we will explore how our theoretical and empirical knowledge of stars and stellar evolution can tell us something about galaxies.
 
 0) Read Chapter 10 of Galaxy Formation & Evolution (GF&E). It covers the basics of stellar evolution, structure, and population synthesis.
 
