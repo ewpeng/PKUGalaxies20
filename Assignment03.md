@@ -28,7 +28,7 @@ Using a stellar library and a Salpeter (1955) initial mass function for the star
 
 3) **Stellar evolutionary models** aim to reproduce the evolution of a star's properties over time based on known physics. The simplest form of stellar population synthesis assumes little about the evolution of stars. Like we started in class, we can try to match a galaxy SED using weighted combinations of stars. This, however, leads to many degenerate (non-unique) solutions, and does not directly tell us about the star formation history of the galaxy. Knowing how stellar evolution proceeds allows us to put stronger constraints on the stellar content and star formation histories of galaxies.
 
-* Padova [isochrones](http://stev.oapd.inaf.it/YZVAR/cgi-bin/form) and [evolutionary tracks](http://stev.oapd.inaf.it/YZVAR/)
+* Padova [isochrones](http://stev.oapd.inaf.it/cgi-bin/cmd) and [evolutionary tracks](http://people.sissa.it/~sbressan/parsec.html)
 * [Victoria-Regina models](http://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/community/VictoriaReginaModels/)
 * [Starburst99](http://www.stsci.edu/science/starburst99/docs/default.htm)
 
