@@ -9,18 +9,18 @@ A) Lambda-CDM does not accurately describe structure on galactic scales
   * de Blok (2009, arXiv:0910.3538) - review
   * de Blok et al. (2001, ApJ, 552, 23)
   * Strigari et al. (2006, ApJ, 652, 306)
-* Galactic thick disk stars are primarily from accreted satellite galaxies
+B) Galactic thick disk stars are primarily from accreted satellite galaxies
   * Sales et al. 2009
   * Yoachim & Dalcanton (2008a,b)
   * Majewski (1993) - (Intermediate Pop II Stars = Thick disk)
   * Ruchti et al. (2010)
-* The stellar initial mass function is not universal
+C) The stellar initial mass function is not universal
   * [Conference proceedings from "The IMF@50"](http://arxiv.org/find/astro-ph/1/co:+AND+50+AND+at+AND+The+IMF/0/1/0/all/0/1)
   * Kroupa (2001, MNRAS, 322, 231)
   * Massey et al. (1995, ApJ,438,188)
   * Various papers by van Dokkum and Conroy (2010, 2011, 2012)
   * Cappellari et al. (2012, Nature, 484, 7395)
-* Halo mass is the main driver of galaxy evolution, and environment is secondary
+D) Halo mass is the main driver of galaxy evolution, and environment is secondary
   * Kauffmann et al. (2004, MNRAS, 353, 713)
   * Kauffmann et al. (2003, MNRAS, 341, 54)
   * De Lucia et al., (2006, MNRAS, 366, 499)
@@ -29,17 +29,17 @@ A) Lambda-CDM does not accurately describe structure on galactic scales
   * Postman & Geller (1984, ApJ, 281, 95)
   * Peng, Y-J, Lilly, S. et al. (2010,  ApJ, 721, 93)
   * Peng, Y-J, Lilly, S. et al. (2012, ApJ, 757, 4)
-* AGN feedback is the main process that keeps massive galaxies quenched.
+E) AGN feedback is the main process that keeps massive galaxies quenched.
   * Croton et al. (2006, MNRAS, 365, 11)
   * Springel et al. (2005. ApJ, 620, 79)
   * Johasnsson, Naab & Ostriker (2009)
   * Birnboim et al. (2007, MNRAS, 345, 349)
   * Khalatyan et al. (2008)
   * Fabian (2012, ARAA, 50, 455)
-* Minor mergers are the primary mechanism for the size evolution of early-type galaxies since z=2.
+F) Minor mergers are the primary mechanism for the size evolution of early-type galaxies since z=2.
   * Naab et al. (2009, ApJ, 699, 178)
   * van Dokkum et al. (2008, ApJ, 677, L5)
   * Khochfar & Silk (2006, ApJ, 648, L21)
   * van der Wel et al. (2009, ApJ, 698, 1232)
   * Poggianti et al. (2012, http://arxiv.org/abs/1211.1005v1)
-
+  
