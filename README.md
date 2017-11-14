@@ -54,8 +54,9 @@ This will not be a traditional lecture course, but one where students help lead 
 * October 17: [The Properties of Local Galaxies (I)](https://kiaa.pku.edu.cn/~peng/teaching/galaxies17/Lecture04-2017.pdf)
 * October 24: [The Properties of Local Galaxies (II)](https://kiaa.pku.edu.cn/~peng/teaching/galaxies17/Lecture05-2017.pdf); Select debate topics
 * November 14: [The Milky Way and Local Group](https://kiaa.pku.edu.cn/~peng/teaching/galaxies17/Lecture06-2017.pdf)
-* November 21: [The Distant Universe](https://kiaa.pku.edu.cn/~peng/teaching/galaxies17/Lecture07-2017.pdf)
-* November 28: Debates (I); Project selection
+* November 21: [The Distant Universe](https://kiaa.pku.edu.cn/~peng/teaching/galaxies17/Lecture07-2017.pdf); debate preparation
+* November 28: Project discussion and selection
+* December 4 (Monday): Debates (I)
 * December 5: Debates (II)
 * January TBD: Final Exam
 
