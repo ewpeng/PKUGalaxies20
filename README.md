@@ -67,6 +67,7 @@ Most of learning in the class will be through the execution of group projects or
 * [Assignment 2](https://github.com/ewpeng/PKUGalaxies17/blob/master/Assignment02.md): Due September 26
 * [Assignment 3](https://github.com/ewpeng/PKUGalaxies17/blob/master/Assignment03.md): Due October 9
 * [Assignment 4](https://github.com/ewpeng/PKUGalaxies17/blob/master/Assignment04.md): Due October 31
+* [Assignment 5](https://github.com/ewpeng/PKUGalaxies17/blob/master/Assignment05.md): Due November 21
 
 **Debates**
 
