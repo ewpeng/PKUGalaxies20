@@ -4,10 +4,13 @@ The debates will be organized as follows:
 
 Debate 1 (Nov 28): Lambda-CDM does not accurately describe structure on galactic scales
 * 黄瑞 and 陈洋遥 versus 段晓苇 and 李洋
+
 Debate 2 (Nov 28): AGN feedback is the main process that keeps massive galaxies quenched
 * 张萌, 刘媛琪, and 丁骄 versus 王飞 and 姜金辰
+
 Debate 3 (Dec 5): Galactic thick disk stars are primarily from accreted satellite galaxies
 * 张春风 and 王凯翔 versus 王超 and 周星宇
+
 Debate 4 (Dec 5): Halo mass is the main driver of galaxy evolution, and environment is secondary
 * 王铂钧 and 盖逸飞 versus 张路路 and 朱锦平
 
