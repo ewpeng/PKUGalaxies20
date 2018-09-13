@@ -1,15 +1,15 @@
 # Introduction and Syllabus for Galactic Astronomy
 
-**Course:** Galactic Astronomy - Fall, 2017
+**Course:** Galactic Astronomy - Fall, 2018
 
-**Instructors:** Prof. [Eric Peng 彭逸西](http://kiaa.pku.edu.cn/~peng) <peng@pku.edu.cn>, Mr. Hua Gao 高桦 <gaohua@pku.edu.cn>
+**Instructors:** Prof. [Eric Peng 彭逸西](http://kiaa.pku.edu.cn/~peng) <peng@pku.edu.cn>, Mr. Siyue Yu 余思悦 <yusiyue@pku.edu.cn>
 
 **Course Description**
 
 
 This course is aimed at the first-year graduate student in astronomy, or advanced undergraduate astronomy majors. The goal of this class is for students to gain a working knowledge of the current state of research in the field of galaxy formation and evolution. By the end of the class, the student should be able to understand the context of any colloquium-level research presentation or conference review on galaxies, and to conduct small research projects in the field.
 
-This class is structured around student-led projects, student presentations, and end-of-semester debates. It is not the goal of this class to expose students to every topic in the field, but rather to explore a few important concepts in depth, and to encourage students to explore tangential material. The working languages of this class are English and Python. 
+This class is structured around student-led projects, student presentations, and end-of-semester debates. It is not the goal of this class to expose students to every topic in the field, but rather to explore a few important concepts in depth, and to encourage students to explore associated material. The working languages of this class are English and Python. 
 
 **Prerequisites**
 
@@ -47,18 +47,18 @@ This will not be a traditional lecture course, but one where students help lead 
 
 **Lectures**
 
-* September 12: [Lecture 1](https://kiaa.pku.edu.cn/~peng/teaching/galaxies17/Lecture01-2017.pdf)
-* September 19: [Lecture 2](https://kiaa.pku.edu.cn/~peng/teaching/galaxies17/Lecture02-2017.pdf)
-* September 26: Stellar Population Synthesis (I)
-* October 9 (Monday): Stellar Population Synthesis (II)
-* October 17: [The Properties of Local Galaxies (I)](https://kiaa.pku.edu.cn/~peng/teaching/galaxies17/Lecture04-2017.pdf)
-* October 24: [The Properties of Local Galaxies (II)](https://kiaa.pku.edu.cn/~peng/teaching/galaxies17/Lecture05-2017.pdf); Select debate topics
-* November 14: [The Milky Way and Local Group](https://kiaa.pku.edu.cn/~peng/teaching/galaxies17/Lecture06-2017.pdf)
-* November 21: [The Distant Universe](https://kiaa.pku.edu.cn/~peng/teaching/galaxies17/Lecture07-2017.pdf); debate preparation
-* November 28: Group "questions" discussion
+* September 18: (Meets in Rm 208) [Lecture 1](https://kiaa.pku.edu.cn/~peng/teaching/galaxies17/Lecture01-2017.pdf)
+* October 9: [Lecture 2](https://kiaa.pku.edu.cn/~peng/teaching/galaxies17/Lecture02-2017.pdf)
+* October 16: Stellar Population Synthesis (I)
+* October 23: Stellar Population Synthesis (II)
+* October 30: [The Properties of Local Galaxies (I)](https://kiaa.pku.edu.cn/~peng/teaching/galaxies17/Lecture04-2017.pdf)
+* November 6: [The Properties of Local Galaxies (II)](https://kiaa.pku.edu.cn/~peng/teaching/galaxies17/Lecture05-2017.pdf); Select debate topics
+* November 13: [The Milky Way and Local Group](https://kiaa.pku.edu.cn/~peng/teaching/galaxies17/Lecture06-2017.pdf)
+* November 20: [The Distant Universe](https://kiaa.pku.edu.cn/~peng/teaching/galaxies17/Lecture07-2017.pdf); debate preparation
+* November 27: Group "questions" discussion
 * December 4 (Monday): Debates (I)
-* December 5: Debates (II)
-* January 9: Final Exam
+* December 11: Debates (II)
+* January 8: Final Exam
 
 **Projects, Assignments, and Reading**
 
@@ -94,4 +94,4 @@ Final Exam: 20%
 
 **Schedule**
 
-This class meets every Tuesday, 1:30-4pm, except where noted differently on the schedule. 
+This class meets every Tuesday, 1-4pm, in the KIAA 1st floor seminar room, except where noted differently on the schedule. 
