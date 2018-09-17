@@ -64,11 +64,11 @@ This will not be a traditional lecture course, but one where students help lead 
 
 Most of learning in the class will be through the execution of group projects or homework assignments. Students are encouraged to work in groups of two (or maybe three), and also to collaborate across groups.
 
-* [Assignment 1](https://github.com/ewpeng/PKUGalaxies17/blob/master/Assignment01.md): Due October 9
-* [Assignment 2](https://github.com/ewpeng/PKUGalaxies17/blob/master/Assignment02.md): Due October 23
-* [Assignment 3](https://github.com/ewpeng/PKUGalaxies17/blob/master/Assignment03.md): Due November 6
-* [Assignment 4](https://github.com/ewpeng/PKUGalaxies17/blob/master/Assignment04.md): Due November 20
-* [Assignment 5](https://github.com/ewpeng/PKUGalaxies17/blob/master/Assignment05.md): Due November 27
+* [Assignment 1](https://github.com/ewpeng/PKUGalaxies18/blob/master/Assignment01.md): Due October 9
+* [Assignment 2](https://github.com/ewpeng/PKUGalaxies18/blob/master/Assignment02.md): Due October 23
+* [Assignment 3](https://github.com/ewpeng/PKUGalaxies18/blob/master/Assignment03.md): Due November 6
+* [Assignment 4](https://github.com/ewpeng/PKUGalaxies18/blob/master/Assignment04.md): Due November 20
+* [Assignment 5](https://github.com/ewpeng/PKUGalaxies18/blob/master/Assignment05.md): Due November 27
 
 **Debates**
 
