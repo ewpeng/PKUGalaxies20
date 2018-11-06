@@ -52,12 +52,12 @@ This will not be a traditional lecture course, but one where students help lead 
 * October 16: Stellar Population Synthesis (I)
 * October 23: Stellar Population Synthesis (II)
 * October 30: [The Properties of Local Galaxies (I)](https://kiaa.pku.edu.cn/~peng/teaching/galaxies18/Lecture04-2018.pdf)
-* November 6: [The Properties of Local Galaxies (II)](https://kiaa.pku.edu.cn/~peng/teaching/galaxies18/Lecture05-2018.pdf); Select debate topics
-* November 13: [The Milky Way and Local Group](https://kiaa.pku.edu.cn/~peng/teaching/galaxies18/Lecture06-2018.pdf)
-* November 20: [The Distant Universe](https://kiaa.pku.edu.cn/~peng/teaching/galaxies18/Lecture07-2018.pdf); debate preparation
-* November 27: Group "questions" discussion
-* December 4 (Monday): Debates (I)
-* December 11: Debates (II)
+* November 6: [The Properties of Local Galaxies (II)](https://kiaa.pku.edu.cn/~peng/teaching/galaxies18/Lecture05-2018.pdf)
+* November 13: [The Milky Way and Local Group](https://kiaa.pku.edu.cn/~peng/teaching/galaxies18/Lecture06-2018.pdf); Select debate topics
+* November 16: [The Distant Universe](https://kiaa.pku.edu.cn/~peng/teaching/galaxies18/Lecture07-2018.pdf); debate preparation
+* November 20: Group "questions" discussion
+* November 27 (Monday): Debates (I)
+* December 4: Debates (II)
 * January 8: Final Exam
 
 **Projects, Assignments, and Reading**
@@ -68,7 +68,7 @@ Most of learning in the class will be through the execution of group projects or
 * [Assignment 2](https://github.com/ewpeng/PKUGalaxies18/blob/master/Assignment02.md): Due October 16
 * [Assignment 3](https://github.com/ewpeng/PKUGalaxies18/blob/master/Assignment03.md): Due October 23
 * [Assignment 4](https://github.com/ewpeng/PKUGalaxies18/blob/master/Assignment04.md): Due November 6
-* [Assignment 5](https://github.com/ewpeng/PKUGalaxies18/blob/master/Assignment05.md): Due November 20
+* [Assignment 5](https://github.com/ewpeng/PKUGalaxies18/blob/master/Assignment05.md): Due November 16
 * [Assignment 6](https://github.com/ewpeng/PKUGalaxies18/blob/master/Assignment06.md): Due November 27
 
 **Debates**
