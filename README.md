@@ -53,8 +53,8 @@ This will not be a traditional lecture course, but one where students help lead 
 * October 23: Stellar Population Synthesis (II)
 * October 30: [The Properties of Local Galaxies (I)](https://kiaa.pku.edu.cn/~peng/teaching/galaxies18/Lecture04-2018.pdf)
 * November 6: [The Properties of Local Galaxies (II)](https://kiaa.pku.edu.cn/~peng/teaching/galaxies18/Lecture05-2018.pdf)
-* November 13: [The Milky Way and Local Group](https://kiaa.pku.edu.cn/~peng/teaching/galaxies18/Lecture06-2018.pdf); Select debate topics
-* November 16: [The Distant Universe](https://kiaa.pku.edu.cn/~peng/teaching/galaxies18/Lecture07-2018.pdf); debate preparation
+* November 13: [The Milky Way and Local Group](https://kiaa.pku.edu.cn/~peng/teaching/galaxies18/Lecture06-2018.pdf)
+* November 16: The Distant Universe; debate preparation
 * November 20: Group "questions" discussion
 * November 27: Debates (I)
 * December 4: Debates (II)
