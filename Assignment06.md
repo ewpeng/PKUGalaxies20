@@ -1,4 +1,4 @@
-Due 27 November 2018
+Due 20 November 2018
 
 The debates will be organized as follows:
 
@@ -27,6 +27,6 @@ The format of the debate is as follows:
 
 Each team may use presentation slides, whiteboard, or any other tools to make their argument. Remember that it is not enough to simply state things, nor to simply say what others have said, but a good argument presents evidence.
 
-**Due on Nov 27**
+**Due on Nov 20**
 
 Each team should outline the key aruguments for the affirmative and negative for their topic. This can be done as a PPT or a written outline with references. 
