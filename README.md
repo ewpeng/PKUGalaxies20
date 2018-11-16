@@ -78,8 +78,9 @@ Toward the end of the semester, we will hold debates between student groups (siz
 * Cold dark matter is incompatible with structure on galactic scales
 * Accretion (minor merging) is important in the formation of thick disks
 * AGN feedback is the primary quenching mechanism for massive galaxies
-* Galaxy mergers are the main driver of morphological evolution
+* Halo mass is the main driver of galaxy evolution, and environment is secondary
 * The stellar initial mass function is not universal
+* Minor mergers are the primary mechanism for the size evolution of early-type galaxies since z=2.
 
 Debates will be between two teams of two people each. One side will support the "affirmative" (agreeing with the statement), and one side will argue the "negative". Each team will have a 10 min opening statement (affirmative speaks first) and a 5 min rebuttal. After each statement, the opposing team will have a chance for 5 minutes of questions. The debate will end with audience questions. The audience (the class) will vote on the winner and the best speaker.
 
