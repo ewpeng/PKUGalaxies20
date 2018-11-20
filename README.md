@@ -82,6 +82,8 @@ Toward the end of the semester, we will hold debates between student groups (siz
 * E: The stellar initial mass function is not universal
 * F: Minor mergers are the primary mechanism for the size evolution of early-type galaxies since z=2.
 
+Teams
+
 * Topic A (CDM&Galaxy):   Team 1: 张中府，王子航， Team 2: 胡帆，   高勇
 * Topic B (Thick disk):   Team 1:  史芳菲， 刘畅,  Team 2: 李文秀, 徐德望
 * Topic E (AGN feedback): Team 1: 胡豪杰, 陆家明,  Team 2: 焦文裕，徐江伟
