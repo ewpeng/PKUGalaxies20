@@ -2,13 +2,13 @@ Due 20 November 2018
 
 The debates will be organized as follows:
 
-Debate 1 (Nov 27): 
+Debate 1 (Nov 27): Thick disks
 
-Debate 2 (Nov 27): 
+Debate 2 (Nov 27): AGN feedback
 
-Debate 3 (Dec 4): 
+Debate 3 (Dec 4): CDM or Size growth
 
-Debate 4 (Dec 4): 
+Debate 4 (Dec 4): CDM or Size growth
 
 Each debate will have one team debate the **affirmative** side, which supports the statement, and the other side debate the **negative**. The goal for the affirmative team is to convince the audience that the statement is true. 
 The goal for the negative team is to convince the audience that the affirmative team has not made a strong enough argument to support the statement (this is different from proving that the statement is false!).
