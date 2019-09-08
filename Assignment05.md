@@ -1,6 +1,6 @@
 Due 16 November 2018
 
-**Debates**. In the final two weeks of class, we will have groups debate current topics in galaxy research. Teams will consist of two students each, and will choose their preferred topics to debate. Based on these preferences, we will match up groups with debate topics. Debate topics are actually statements that each side will support (affirmative) or not (negative). For this assignment, please form groups of two and select three topics that interest you. For **each of these three topics**, write **one paragraph** explaining why the topic is interesting, and what the current controversy is. This paragraph should be written in a way so that the person reading it would be interested in listening to the debate. The following references are meant to help you get started, and are by no means complete or up to date.
+**Debates**. In the final two weeks of class, we will have groups debate current topics in galaxy research. Teams will consist of two students each, and will choose their preferred topics to debate. Based on these preferences, we will match up groups with debate topics. Debate topics are actually statements that each side will support (affirmative) or not (negative). For this assignment, please form groups of two and select three topics that interest you. For **each of these three topics**, write **one paragraph** explaining why the topic is interesting, and what the current controversy is. This paragraph should be written in a way so that the person reading it would be interested in listening to the debate. The following references are meant to help you get started, and are by no means complete or up to date. Use citations to these papers to find more recent work on the subject.
 
 A) Cold dark matter is incompatible with structure on galactic scales
   * Navarro, Frenk & White (1997, ApJ, 490, 493)
@@ -45,5 +45,4 @@ F) Minor mergers are the primary mechanism for the size evolution of early-type 
   * van Dokkum et al. (2008, ApJ, 677, L5)
   * Khochfar & Silk (2006, ApJ, 648, L21)
   * van der Wel et al. (2009, ApJ, 698, 1232)
-  * Poggianti et al. (2012, http://arxiv.org/abs/1211.1005v1)
-  
+  * Poggianti et al. (2013, ApJ, 762, 77)

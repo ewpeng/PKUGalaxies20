@@ -1,16 +1,16 @@
-Due 20 November 2018
+Due 8 November 2019
 
 The debates will be organized as follows:
 
-Debate 1 (Nov 27): Thick disks
+Debate 1
 
-Debate 2 (Nov 27): AGN feedback
+Debate 2
 
-Debate 3 (Dec 4): CDM or Size growth
+Debate 3
 
-Debate 4 (Dec 4): CDM or Size growth
+Debate 4
 
-Each debate will have one team debate the **affirmative** side, which supports the statement, and the other side debate the **negative**. The goal for the affirmative team is to convince the audience that the statement is true. 
+Each debate will have one team debate the **affirmative** side, which supports the statement, and the other side debate the **negative**. The goal for the affirmative team is to convince the audience that the statement is true.
 The goal for the negative team is to convince the audience that the affirmative team has not made a strong enough argument to support the statement (this is different from proving that the statement is false!).
 
 Which side each team will debate will be determined on the day of the debates.
@@ -27,6 +27,6 @@ The format of the debate is as follows:
 
 Each team may use presentation slides, whiteboard, or any other tools to make their argument. Remember that it is not enough to simply state things, nor to simply say what others have said, but a good argument presents evidence.
 
-**Due on Nov 20**
+**Due on Nov 8**
 
-Each team should outline the key aruguments for the affirmative and negative for their topic. This can be done as a PPT or a written outline with references. 
+Each team should outline the key arguments for the affirmative and negative for their topic. This can be done as a PPT or a written outline with references.

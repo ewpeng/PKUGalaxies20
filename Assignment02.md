@@ -11,5 +11,5 @@ The spectral energy distributions (SEDs) of galaxies tell us about what they are
    b) What fraction of the brightest 20 stars are on the main sequence versus in a post-main sequence phase. How does this compare to the expected lifetimes of stars both on and off the main sequence? How can we explain the observed ratio?
 
 Useful links:
-* Padova [isochrones](http://stev.oapd.inaf.it/YZVAR/cgi-bin/form) and [evolutionary tracks](http://stev.oapd.inaf.it/YZVAR/)
+* Padova [isochrones](http://stev.oapd.inaf.it/cgi-bin/cmd) and [evolutionary tracks](https://people.sissa.it/~sbressan/parsec.html)
 * [Hipparcos Catalog](http://cdsarc.u-strasbg.fr/viz-bin/Cat?I/239)

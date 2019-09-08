@@ -4,7 +4,7 @@ Please make sure your homework has your name (both Chinese and pinyin). You are 
 
 The spectral energy distributions (SEDs) of galaxies tell us about what they are made of, and how they evolved. One of the main constituents of galaxies that we can see is stars. Understanding "stellar populations" (star clusters, galaxies) is an important extension of our knowledge of stellar evolution. In this assignment, we will explore how our theoretical and empirical knowledge of stars and stellar evolution can tell us something about galaxies.
 
-Read [Larson & Tinsley 1978])(http://adsabs.harvard.edu/abs/1978ApJ...219...46L). Beatrice Tinsley was a pioneer in the study of galaxies and their stellar populations. In this important paper, she and Richard Larson showed how we can use stellar population synthesis models to derive recent star formation histories of "peculiar" galaxies using their UBV colors. Please read the paper and answer the following questions.
+Read [Larson & Tinsley 1978])(https://ui.adsabs.harvard.edu/abs/1978ApJ...219...46L). Beatrice Tinsley was a pioneer in the study of galaxies and their stellar populations. In this important paper, she and Richard Larson showed how we can use stellar population synthesis models to derive recent star formation histories of "peculiar" galaxies using their UBV colors. Please read the paper and answer the following questions.
 
 1a. What question is the paper trying to answer?
 
@@ -23,7 +23,7 @@ We will now try to understand very crudely how one might do a stellar population
 
 2a. Using the galaxies you identified in Assignment 1, find the spectra of these two objects in the SDSS database and plot them: [1237666339190472822](http://skyserver.sdss.org/dr12/en/tools/explore/Summary.aspx?id=1237666339190472822) and [1237648722300567644](http://skyserver.sdss.org/dr12/en/tools/explore/Summary.aspx?id=1237648722300567644).
 
-2b. Plot flux calibrated spectra of stars from type O through M. Compare them to the spectra of galaxies from 1a. Which stars are similar to the galaxies? 
+2b. Plot flux calibrated spectra of stars from type O through M. Compare them to the spectra of galaxies from 1a. Which stars are similar to the galaxies?
 
 2c. See if you can add combinations of stars (in different ratios) to get a spectrum that approximates a "blue" galaxy and a "red" galaxy. Ignore emission lines, as they come from the interstellar medium, not the stars.
 
