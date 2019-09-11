@@ -48,13 +48,13 @@ A significant amount of class time will be devoted to discussion, projects/assig
 **Lectures**
 
 * September 10: [Lecture 1](https://kiaa.pku.edu.cn/~peng/teaching/galaxies19/Lecture01-2019.pdf) (Meets in Rm 208)
-* September 17[Lecture 2](https://kiaa.pku.edu.cn/~peng/teaching/galaxies19/Lecture02-2019.pdf)
-* September 18: Stellar Evolution in Brief
-* October 15: Stellar Population Synthesis
-* October 18: [The Properties of Local Galaxies (I)](https://kiaa.pku.edu.cn/~peng/teaching/galaxies19/Lecture04-2019.pdf)
-* October 22: [The Properties of Local Galaxies (II)](https://kiaa.pku.edu.cn/~peng/teaching/galaxies19/Lecture05-2019.pdf)
-* October 25: [The Milky Way and Local Group](https://kiaa.pku.edu.cn/~peng/teaching/galaxies19/Lecture06-2019.pdf)
-* November 8: [The Distant Universe](https://kiaa.pku.edu.cn/~peng/teaching/galaxies19/Lecture07-2019.pdf); debate preparation
+* September 17: [Lecture 2](https://kiaa.pku.edu.cn/~peng/teaching/galaxies19/Lecture02-2019.pdf), Stellar Evolution in Brief
+* September 18: Stellar Population Synthesis
+* October 8: Population synthesis (working groups for Assignment 4)
+* October 15: [The Properties of Local Galaxies (I)](https://kiaa.pku.edu.cn/~peng/teaching/galaxies19/Lecture04-2019.pdf)
+* October 18: [The Properties of Local Galaxies (II)](https://kiaa.pku.edu.cn/~peng/teaching/galaxies19/Lecture05-2019.pdf)
+* October 22: [The Milky Way and Local Group](https://kiaa.pku.edu.cn/~peng/teaching/galaxies19/Lecture06-2019.pdf)
+* October 25: [The Distant Universe](https://kiaa.pku.edu.cn/~peng/teaching/galaxies19/Lecture07-2019.pdf)
 * November 12: Debates
 * January TBD: Final
 
@@ -62,10 +62,10 @@ A significant amount of class time will be devoted to discussion, projects/assig
 
 Much of learning in the class will be through the execution of group projects or homework assignments. Students are encouraged to work in groups of two (or maybe three), and also to collaborate across groups.
 
-* [Assignment 1](https://github.com/ewpeng/PKUGalaxies19/blob/master/Assignment01.md): Due September 20
+* [Assignment 1](https://github.com/ewpeng/PKUGalaxies19/blob/master/Assignment01.md): Due September 17
 * [Assignment 2](https://github.com/ewpeng/PKUGalaxies19/blob/master/Assignment02.md): Due September 27
-* [Assignment 3](https://github.com/ewpeng/PKUGalaxies19/blob/master/Assignment03.md): Due October 22
-* [Assignment 4](https://github.com/ewpeng/PKUGalaxies19/blob/master/Assignment04.md): Due November 6
+* [Assignment 3](https://github.com/ewpeng/PKUGalaxies19/blob/master/Assignment03.md): Due October 8
+* [Assignment 4](https://github.com/ewpeng/PKUGalaxies19/blob/master/Assignment04.md): Due October 18
 * [Assignment 5](https://github.com/ewpeng/PKUGalaxies19/blob/master/Assignment05.md): Due October 25
 * [Assignment 6](https://github.com/ewpeng/PKUGalaxies19/blob/master/Assignment06.md): Due November 8
 

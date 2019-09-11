@@ -6,9 +6,6 @@ Debate 1
 
 Debate 2
 
-Debate 3
-
-Debate 4
 
 Each debate will have one team debate the **affirmative** side, which supports the statement, and the other side debate the **negative**. The goal for the affirmative team is to convince the audience that the statement is true.
 The goal for the negative team is to convince the audience that the affirmative team has not made a strong enough argument to support the statement (this is different from proving that the statement is false!).
