@@ -23,7 +23,7 @@ We will now try to understand very crudely how one might do a stellar population
 
 2a. Using the galaxies you identified in Assignment 1, find the spectra of these two objects in the SDSS database and plot them: [1237666339190472822](http://skyserver.sdss.org/dr12/en/tools/explore/Summary.aspx?id=1237666339190472822) and [1237648722300567644](http://skyserver.sdss.org/dr12/en/tools/explore/Summary.aspx?id=1237648722300567644).
 
-2b. Plot flux calibrated spectra of stars from type O through M. Compare them to the spectra of galaxies from 1a. Which stars are similar to the galaxies?
+2b. Plot flux calibrated spectra of stars from type O through M. Compare them to the spectra of galaxies from 2a. Which stars are similar to the galaxies?
 
 2c. See if you can add combinations of stars (in different ratios) to get a spectrum that approximates a "blue" galaxy and a "red" galaxy. Ignore emission lines, as they come from the interstellar medium, not the stars.
 
