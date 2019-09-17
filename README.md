@@ -51,10 +51,10 @@ A significant amount of class time will be devoted to discussion, projects/assig
 * September 17: Stellar Evolution, in Brief:  [slides](https://kiaa.pku.edu.cn/~peng/teaching/galaxies19/Lecture02-2019-slides.pdf), [notes](https://kiaa.pku.edu.cn/~peng/teaching/galaxies19/Lecture02-2019-notes.pdf)
 * September 18: Stellar Population Synthesis
 * October 8: Population synthesis (working groups for Assignment 4)
-* October 15: [The Properties of Local Galaxies (I)](https://kiaa.pku.edu.cn/~peng/teaching/galaxies19/Lecture04-2019.pdf)
-* October 18: [The Properties of Local Galaxies (II)](https://kiaa.pku.edu.cn/~peng/teaching/galaxies19/Lecture05-2019.pdf)
-* October 22: [The Milky Way and Local Group](https://kiaa.pku.edu.cn/~peng/teaching/galaxies19/Lecture06-2019.pdf)
-* October 25: [The Distant Universe](https://kiaa.pku.edu.cn/~peng/teaching/galaxies19/Lecture07-2019.pdf)
+* October 15: The Properties of Local Galaxies (I)
+* October 18: The Properties of Local Galaxies (II)
+* October 22: The Milky Way and Local Group
+* October 25: The Distant Universe
 * November 12: Debates
 * January TBD: Final
 
