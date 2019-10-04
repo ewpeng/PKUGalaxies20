@@ -54,7 +54,7 @@ A significant amount of class time will be devoted to discussion, projects/assig
 * October 15: The Properties of Local Galaxies (I)
 * October 18: The Properties of Local Galaxies (II)
 * October 22: The Milky Way and Local Group
-* October 25: The Distant Universe
+* Nov 8: The Distant Universe
 * November 12: Debates
 * January TBD: Final
 
