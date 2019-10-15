@@ -17,8 +17,8 @@ We will now try to understand very crudely how one might do a stellar population
 **Stellar libraries** are collections of stellar spectra, taken in a homogeneous manner, that allow us to know what the SED of a star should be as a function of stellar parameters (effective temperature, gravity, metallicity, chemical abundance, etc). It is an empirical way of sampling the parameter space of stellar properties. The advantage of this method is that these are the SEDs of real stars, so we know they must exist. The main disadvantage is that the stars that we can include in our libraries (i.e., those in the Milky Way, near us) may not represent the full range of stellar parameters that exist in the Universe. The alternative is to use computer code that reproduces stellar atmospheres from first principles and known atomic transitions. While this technique allows the exploration of a large range of stellar parameters, the models can suffer from missing physics or unknown atomic and molecular transitions or oscillator strengths. For this assignment, we will use stellar libraries. Below are a few examples of commonly used spectral libraries.
 
 * [Pickles Spectral Library](http://www.eso.org/sci/facilities/paranal/decommissioned/isaac/tools/lib.html)
-* [ELODIE Spectral Library](http://www.obs.u-bordeaux1.fr/m2a/soubiran/elodie_library.html)
-* [MILES Spectral Library](http://www.iac.es/proyecto/miles/)
+* [ELODIE Spectral Library](http://atlas.obs-hp.fr/elodie)
+* [MILES Spectral Library](http://miles.iac.es/)
 * Make your own! You can also use the SDSS and other surveys to find calibrated spectra.
 
 2a. Using the galaxies you identified in Assignment 1, find the spectra of these two objects in the SDSS database and plot them: [1237666339190472822](http://skyserver.sdss.org/dr12/en/tools/explore/Summary.aspx?id=1237666339190472822) and [1237648722300567644](http://skyserver.sdss.org/dr12/en/tools/explore/Summary.aspx?id=1237648722300567644).
