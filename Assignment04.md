@@ -41,6 +41,9 @@ The **initial mass function (IMF)** tells us about the number of stars formed as
 * [Victoria-Regina models](http://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/community/VictoriaReginaModels/)
 * [Starburst99](http://www.stsci.edu/science/starburst99/docs/default.htm)
 
-4a. An isochrone represents a snapshot in time (iso = same, chrone = time) of a single-age, single-metallicity stellar population. One can approximate the star formation history of a galaxy as a combination of single-age populations. Using evolutionary synthesis models, plot the evolution of (u-g) vs (g-r) color for isochrones ranging in age from 0.01-13 Gyr and -2.3<[Fe/H]<+0.3.
+4a. An isochrone represents a snapshot in time (iso = same, chrone = time) of a single-age, single-metallicity stellar population. One can approximate the star formation history of a galaxy as a combination of single-age populations. Using evolutionary synthesis models, plot the evolution of (u-g) vs (g-r) color for isochrones ranging in age from 0.01-13 Gyr and -2.3<[Fe/H]<+0.3. Please do this two ways. First, try using the isochrones to sum up the light for each SSP (age and metallicity). Second, you can compare what you get with the Bruzual & Charlot (2003) population synthesis models, which use the Padova isochrones with various stellar libraries and IMFs. I suggest you use the 2016 update, with a Kroupa or Chabrier IMF. When you download the right tgz file, you will want to look at the the "lr" (low resolution) .1ABcolor file.
+
+* [Directory of Bruzual & Charlot (BC03) models](http://www.bruzual.org/bc03/). Use the 2016 update
+* [BC03 documentation](http://www.bruzual.org/bc03/doc/)
 
 4b. Overplot the colors of the SDSS galaxies in the same color-color plot. What can we say about these galaxies' star formation histories?
