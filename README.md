@@ -53,7 +53,7 @@ A significant amount of class time will be devoted to discussion, projects/assig
 * October 8: Population synthesis (working groups for Assignment 4)
 * October 15: [The Properties of Local Galaxies (II)](https://kiaa.pku.edu.cn/~peng/teaching/galaxies19/Lecture04-2019.pdf)
 * October 18: [The Milky Way and the Local Group](https://kiaa.pku.edu.cn/~peng/teaching/galaxies19/Lecture05-2019.pdf)
-* October 22: The Distant Univere
+* October 22: [The Distant Universe](https://kiaa.pku.edu.cn/~peng/teaching/galaxies19/Lecture06-2019.pdf)
 * Nov 8: Debate preparation
 * November 12: Debates
 * January TBD: Final
