@@ -1,8 +1,8 @@
 # Introduction and Syllabus for Galactic Astronomy
 
-**Course:** Galactic Astronomy - Fall, 2019
+**Course:** Galactic Astronomy - Fall, 2020
 
-**Instructors:** Prof. [Eric Peng 彭逸西](http://kiaa.pku.edu.cn/~peng) <peng@pku.edu.cn>, Ms. Niankun Yu 余捻坤 <niankun@pku.edu.cn>
+**Instructors:** Prof. [Eric Peng 彭逸西](http://kiaa.pku.edu.cn/~peng) <peng@pku.edu.cn>, Mr. Kaixiang Wang 王凯翔 <kaixiang.wang@pku.edu.cn>
 
 **Course Description**
 
@@ -10,6 +10,8 @@
 This course is aimed at the first-year graduate student in astronomy, or advanced undergraduate astronomy majors. The goal of this class is for students to gain a working knowledge of the current state of research in the field of galaxy formation and evolution. By the end of the class, the student should be able to understand the context of any colloquium-level research presentation or conference review on galaxies, and to conduct small research projects in the field.
 
 This class is structured around lectures, group assignments and projects, student presentations, and end-of-semester debates. It is not the goal of this class to expose students to every topic in the field, but rather to explore a few important concepts in depth, and to encourage students to explore associated material. The working languages of this class are English and Python.
+
+This course will be taught remotely.
 
 **Prerequisites**
 
@@ -41,21 +43,29 @@ This course will explore the observational and theoretical underpinnings of our 
 A significant amount of class time will be devoted to discussion, projects/assignments, and debates.
 
 **References**
-   * [Galaxy Formation and Evolution](http://www.amazon.com/Galaxy-Formation-Evolution-Houjun-Mo/dp/0521857937), by Houjun Mo, Frank van den Bosch, and Simon White - This will be the main textbook for the class.
+   * [Galaxy Formation and Evolution](http://www.amazon.cn/Galaxy-Formation-Evolution-Houjun-Mo/dp/0521857937), by Houjun Mo, Frank van den Bosch, and Simon White - This will be the main textbook for the class.
    * [Statistics, Data Mining, and Machine Learning in Astronomy](https://www.amazon.cn/Statistics-Data-Mining-and-Machine-Learning-in-Astronomy-A-Practical-Python-Guide-for-the-Analysis-of-Survey-Data-Ivezic-Zeljko/dp/0691151687)
-   * [Astrophysics Data Service (ADS)](http://adsabs.harvard.edu/abstract_service.html)
+   * [Astrophysics Data Service (ADS)](https://ui.adsabs.harvard.edu)
 
 **Lectures**
 
-* September 10: [Introduction to Galaxies](https://kiaa.pku.edu.cn/~peng/teaching/galaxies19/Lecture01-2019.pdf) (Meets in Rm 208)
-* September 17: Stellar Evolution, in Brief:  [slides](https://kiaa.pku.edu.cn/~peng/teaching/galaxies19/Lecture02-2019-slides.pdf), [notes](https://kiaa.pku.edu.cn/~peng/teaching/galaxies19/Lecture02-2019-notes.pdf)
-* September 18: Stellar Population Synthesis and [The Properties of Local Galaxies (I)](https://kiaa.pku.edu.cn/~peng/teaching/galaxies19/Lecture03-2019.pdf)
-* October 8: Population synthesis (working groups for Assignment 4)
-* October 15: [The Properties of Local Galaxies (II)](https://kiaa.pku.edu.cn/~peng/teaching/galaxies19/Lecture04-2019.pdf)
-* October 18: [The Milky Way and the Local Group](https://kiaa.pku.edu.cn/~peng/teaching/galaxies19/Lecture05-2019.pdf)
-* October 22: [The Distant Universe](https://kiaa.pku.edu.cn/~peng/teaching/galaxies19/Lecture06-2019.pdf)
-* Nov 8: Debate preparation
-* November 12: Debates
+* September 22: [Introduction to Galaxies](https://kiaa.pku.edu.cn/~peng/teaching/galaxies20/Lecture01-2019.pdf) (Meets in Rm 208)
+* September 29: Stellar Evolution, in Brief:  [slides](https://kiaa.pku.edu.cn/~peng/teaching/galaxies20/Lecture02-2020-slides.pdf), [notes](https://kiaa.pku.edu.cn/~peng/teaching/galaxies19/Lecture02-2020-notes.pdf)
+* September 18: Stellar Population Synthesis and [The Properties of Local Galaxies (I)](https://kiaa.pku.edu.cn/~peng/teaching/galaxies19/Lecture03-2020.pdf)
+* October 13: Population synthesis (working groups for Assignment 4)
+* October 20: [The Properties of Local Galaxies (II)](https://kiaa.pku.edu.cn/~peng/teaching/galaxies20/Lecture04-2020.pdf)
+* October 27: [The Milky Way and the Local Group](https://kiaa.pku.edu.cn/~peng/teaching/galaxies20/Lecture05-2020.pdf)
+* October 29: [The Distant Universe](https://kiaa.pku.edu.cn/~peng/teaching/galaxies20/Lecture06-2020.pdf)
+* November 3: Debate preparation
+* November 10: Debates
+* November 17:
+* November 24:
+* December 1:
+* December 8:
+* December 15:
+* December 22:
+* December 29:
+* January 5:
 * January TBD: Final
 
 **Projects, Assignments, and Reading**
