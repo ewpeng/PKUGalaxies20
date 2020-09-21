@@ -109,4 +109,4 @@ Final Exam: 20%
 
 **Schedule**
 
-This class meets every Tuesday, 1-4pm, in the KIAA 1st floor seminar room, except where noted differently on the schedule.
+This class meets every Tuesday, 8-11am, **remotely on Zoom**. Please check the class Slack workspace for Zoom links and changes in schedule.
