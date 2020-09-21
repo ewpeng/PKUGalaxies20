@@ -1,6 +1,7 @@
 # Assigment 1
 
-Due: 30 September 2020
+Due: 29 September 2020
+Revisions accepted: 30 September 2020
 
 Please make sure your homework has your name (both Chinese and pinyin). You are free to work with others in the class, but everyone should hand in their own assignment. You should submit your assignment as a Jupyter notebook or PDF by email to Kaixiang Wang. Please make sure the notebook is well documented with comments and descriptions of what you have done, not just codes and plots.
 
