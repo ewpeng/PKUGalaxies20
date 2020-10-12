@@ -51,7 +51,8 @@ A significant amount of class time will be devoted to discussion, projects/assig
 
 * September 22: [Introduction to Galaxies](https://kavli.pku.edu.cn/~peng/teaching/galaxies20/Lecture01-2020.pdf)
 * September 29: Assignment/Lecture 1 Discussion
-* October 13
+* October 13: Stars and Stellar Populations
+* October 20: Assignment/Lecture 2 Discussion
 <!--* September 29: Stellar Evolution, in Brief:  [slides](https://kavli.pku.edu.cn/~peng/teaching/galaxies20/Lecture02-2020-slides.pdf), [notes](https://kavli.pku.edu.cn/~peng/teaching/galaxies19/Lecture02-2020-notes.pdf)
 * September 18: Stellar Population Synthesis and [The Properties of Local Galaxies (I)](https://kiaa.pku.edu.cn/~peng/teaching/galaxies19/Lecture03-2020.pdf)
 * October 13: Population synthesis (working groups for Assignment 4)
@@ -75,8 +76,9 @@ A significant amount of class time will be devoted to discussion, projects/assig
 Much of learning in the class will be through the execution of group projects or homework assignments. Students are encouraged to work in groups of two (or maybe three), and also to collaborate across groups.
 
 * [Assignment 1](https://github.com/ewpeng/PKUGalaxies19/blob/master/Assignment01.md): Due September 29 (revisions accepted until Sep 30)
-<!--* [Assignment 2](https://github.com/ewpeng/PKUGalaxies19/blob/master/Assignment02.md): Due September 27
-* [Assignment 3](https://github.com/ewpeng/PKUGalaxies19/blob/master/Assignment03.md): Due October 8
+* [Assignment 2](https://github.com/ewpeng/PKUGalaxies20/blob/master/Assignment02.md): Due October 21
+
+<!--* [Assignment 3](https://github.com/ewpeng/PKUGalaxies19/blob/master/Assignment03.md): Due October 8
 * [Assignment 4](https://github.com/ewpeng/PKUGalaxies19/blob/master/Assignment04.md): Due October 18
 * [Assignment 5](https://github.com/ewpeng/PKUGalaxies19/blob/master/Assignment05.md): Due October 25
 * [Assignment 6](https://github.com/ewpeng/PKUGalaxies19/blob/master/Assignment06.md): Due November 8
