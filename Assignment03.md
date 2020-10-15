@@ -1,4 +1,4 @@
-Due: 18 October 2019
+Due: 04 November 2020
 
 Please make sure your homework has your name (both Chinese and pinyin). You are free to work with others in the class, but everyone should submit their own assignment. You should submit your assignment as a Jupyter notebook, with PDF attachments if necessary. You may work in groups of 3 or fewer people.
 
