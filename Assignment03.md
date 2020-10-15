@@ -4,7 +4,7 @@ Please make sure your homework has your name (both Chinese and pinyin). You are 
 
 The spectral energy distributions (SEDs) of galaxies tell us about what they are made of, and how they evolved. One of the main constituents of galaxies that we can see is stars. Understanding "stellar populations" (star clusters, galaxies) is an important extension of our knowledge of stellar evolution. In this assignment, we will explore how our theoretical and empirical knowledge of stars and stellar evolution can tell us something about galaxies.
 
-Read [Larson & Tinsley 1978])(https://ui.adsabs.harvard.edu/abs/1978ApJ...219...46L). Beatrice Tinsley was a pioneer in the study of galaxies and their stellar populations. In this important paper, she and Richard Larson showed how we can use stellar population synthesis models to derive recent star formation histories of "peculiar" galaxies using their UBV colors. Please read the paper and answer the following questions.
+Read [Larson & Tinsley 1978](https://ui.adsabs.harvard.edu/abs/1978ApJ...219...46L). Beatrice Tinsley was a pioneer in the study of galaxies and their stellar populations. In this important paper, she and Richard Larson showed how we can use stellar population synthesis models to derive recent star formation histories of "peculiar" galaxies using their UBV colors. Please read the paper and answer the following questions.
 
 1a. What question is the paper trying to answer?
 
