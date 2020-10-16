@@ -49,9 +49,9 @@ A significant amount of class time will be devoted to discussion, projects/assig
 
 **Lectures**
 
-* September 22: [Introduction to Galaxies](https://kavli.pku.edu.cn/~peng/teaching/galaxies20/Lecture01-2020.pdf)
+* September 22: [Introduction to Galaxies](https://disk.pku.edu.cn:443/link/F5FD978179FA37668D7645E16D94FB0B)
 * September 29: Assignment/Lecture 1 Discussion
-* October 13: [Stars and Stellar Evolution](https://kavli.pku.edu.cn/~peng/teaching/galaxies20/Lecture02-2020.pdf)
+* October 13: [Stars and Stellar Evolution](https://disk.pku.edu.cn:443/link/5F8AFFD0F2E603D4C92CAF2954E1CD57)
 * October 20: Assignment/Lecture 2 Discussion
 <!--* September 29: Stellar Evolution, in Brief:  [slides](https://kavli.pku.edu.cn/~peng/teaching/galaxies20/Lecture02-2020-slides.pdf), [notes](https://kavli.pku.edu.cn/~peng/teaching/galaxies19/Lecture02-2020-notes.pdf)
 * September 18: Stellar Population Synthesis and [The Properties of Local Galaxies (I)](https://kiaa.pku.edu.cn/~peng/teaching/galaxies19/Lecture03-2020.pdf)
