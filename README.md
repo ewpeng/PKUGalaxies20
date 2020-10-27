@@ -92,7 +92,7 @@ Much of learning in the class will be through the execution of group projects or
 Toward the end of the semester, we will hold debates between student groups (size of two or three). These debates will roughly 45 min long, and will be on topics of current relevance in the field of galaxy evolution and formation. The format of the debate will be as follows: each side will present their case, present a rebuttal, and be open to questions from the other side and the audience. The audience will decide the winner of the debate. Potential statements to debate:
 
 * A: Cold dark matter is incompatible with structure on galactic scales
-* B: Accretion (minor merging) is important in the formation of thick disks
+* B: Accretion (minor merging) is important for the formation of thick disks
 * C: AGN feedback is the primary quenching mechanism for massive galaxies
 * D: Halo mass is the main driver of galaxy evolution, and environment is secondary
 * E: The stellar initial mass function is not universal
