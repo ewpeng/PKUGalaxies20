@@ -80,8 +80,8 @@ Much of learning in the class will be through the execution of group projects or
 * [Assignment 1](https://github.com/ewpeng/PKUGalaxies20/blob/master/Assignment01.md): Due September 29 (revisions accepted until Sep 30)
 * [Assignment 2](https://github.com/ewpeng/PKUGalaxies20/blob/master/Assignment02.md): Due October 21
 * [Assignment 3](https://github.com/ewpeng/PKUGalaxies20/blob/master/Assignment03.md): Due November 4
-<!-- * [Assignment 4](https://github.com/ewpeng/PKUGalaxies19/blob/master/Assignment04.md): Due October 18
-* [Assignment 5](https://github.com/ewpeng/PKUGalaxies19/blob/master/Assignment05.md): Due October 25
+* [Assignment 4](https://github.com/ewpeng/PKUGalaxies20/blob/master/Assignment04.md): Due November 23
+<!-- * [Assignment 5](https://github.com/ewpeng/PKUGalaxies19/blob/master/Assignment05.md): Due October 25
 * [Assignment 6](https://github.com/ewpeng/PKUGalaxies19/blob/master/Assignment06.md): Due November 8
 * [Assignment 7](https://github.com/ewpeng/PKUGalaxies19/blob/master/Assignment07.md): Due December 2
 * [Final Project](https://github.com/ewpeng/PKUGalaxies19/blob/master/FinalProject.md): Due 5pm, December 27-->
