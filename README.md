@@ -55,6 +55,8 @@ A significant amount of class time will be devoted to discussion, projects/assig
 * October 20: Assignment/Lecture 2 Discussion
 * October 27: Population Synthesis: GF&E, Section 10.3
 * November 3: Assignment/Lecture 3 Discussion
+* November 10: [Properties of Local Galaxies, Part 1](https://disk.pku.edu.cn:443/link/6357893B504CE3ACD8E5D9BB900786CF)
+* November 17: Assignment/Lecture 4 Discussion
 <!--* September 29: Stellar Evolution, in Brief:  [slides](https://kavli.pku.edu.cn/~peng/teaching/galaxies20/Lecture02-2020-slides.pdf), [notes](https://kavli.pku.edu.cn/~peng/teaching/galaxies19/Lecture02-2020-notes.pdf)
 * September 18: Stellar Population Synthesis and [The Properties of Local Galaxies (I)](https://kiaa.pku.edu.cn/~peng/teaching/galaxies19/Lecture03-2020.pdf)
 * October 13: Population synthesis (working groups for Assignment 4)
