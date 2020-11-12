@@ -50,30 +50,21 @@ A significant amount of class time will be devoted to discussion, projects/assig
 **Lectures**
 
 * September 22: [Introduction to Galaxies](https://disk.pku.edu.cn:443/link/F5FD978179FA37668D7645E16D94FB0B)
-* September 29: Assignment/Lecture 1 Discussion
+* September 29: Assignment/Discussion
 * October 13: [Stars and Stellar Evolution](https://disk.pku.edu.cn:443/link/5F8AFFD0F2E603D4C92CAF2954E1CD57)
-* October 20: Assignment/Lecture 2 Discussion
+* October 20: Assignment/Discussion
 * October 27: Population Synthesis: GF&E, Section 10.3
-* November 3: Assignment/Lecture 3 Discussion
-* November 10: [Properties of Local Galaxies, Part 1](https://disk.pku.edu.cn:443/link/6357893B504CE3ACD8E5D9BB900786CF)
-* November 17: Assignment/Lecture 4 Discussion
-<!--* September 29: Stellar Evolution, in Brief:  [slides](https://kavli.pku.edu.cn/~peng/teaching/galaxies20/Lecture02-2020-slides.pdf), [notes](https://kavli.pku.edu.cn/~peng/teaching/galaxies19/Lecture02-2020-notes.pdf)
-* September 18: Stellar Population Synthesis and [The Properties of Local Galaxies (I)](https://kiaa.pku.edu.cn/~peng/teaching/galaxies19/Lecture03-2020.pdf)
-* October 13: Population synthesis (working groups for Assignment 4)
-* October 20: [The Properties of Local Galaxies (II)](https://kiaa.pku.edu.cn/~peng/teaching/galaxies20/Lecture04-2020.pdf)
-* October 27: [The Milky Way and the Local Group](https://kiaa.pku.edu.cn/~peng/teaching/galaxies20/Lecture05-2020.pdf)
-* October 29: [The Distant Universe](https://kiaa.pku.edu.cn/~peng/teaching/galaxies20/Lecture06-2020.pdf)
-* November 3: Debate preparation
-* November 10: Debates
-* November 17:
-* November 24:
-* December 1:
-* December 8:
-* December 15:
-* December 22:
-* December 29:
-* January 5:
-* January TBD: Final-->
+* November 3: Assignment/Discussion
+* November 10: [Properties of Local and Distant Galaxies, Part 1](https://disk.pku.edu.cn:443/link/6357893B504CE3ACD8E5D9BB900786CF)
+* November 17: Assignment/Discussion
+* November 24: Properties of Local and Distant Galaxies, Part 2
+* December 1: Assignment/Discussion
+* December 8: The Milky Way and the Local Group
+* December 15: Assignment/Discussion
+* December 22: Debate preparation
+* December 29: Debates
+* January 5: Final project discussion
+* January 12: Final project due
 
 **Projects, Assignments, and Reading**
 
