@@ -15,9 +15,9 @@ Your summary should, at a minimum, address the following questions. You should i
 * What is new about these studies that has not been done before?
 * What future directions are there to make progress in this field? What will JWST be able to do?
 
-In addition, you will probably want to address some of the following specific issues:
+In addition, you should address some of the following specific issues:
 
 * What are the characteristics of the surveys being used (e.g., CANDELS) that make them unique or useful?
-* WHat is the significance of using the Tully-Fisher relation?
+* What is the significance of using the Tully-Fisher relation?
 * What is the sigificance of V/sigma?
 * What have they learned about the quenching of galaxies?
