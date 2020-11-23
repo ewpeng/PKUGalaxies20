@@ -1,6 +1,6 @@
-# Assignment 7
+# Assignment 5
 
-Due: 2 December 2019
+Due: 7 December 2020
 
 One of the goals of this class is for you to be able to understand the relevance of any well-presented colloquium in the field of galaxy evolution. For this assignment, please view the following colloquium given at the Space Telescope Science Institute, and answer in detail the questions below.
 
