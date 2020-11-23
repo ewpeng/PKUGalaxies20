@@ -57,7 +57,7 @@ A significant amount of class time will be devoted to discussion, projects/assig
 * November 3: Assignment/Discussion
 * November 10: [Properties of Local and Distant Galaxies, Part 1](https://disk.pku.edu.cn:443/link/6357893B504CE3ACD8E5D9BB900786CF)
 * November 17: Assignment/Discussion
-* November 24: Properties of Local and Distant Galaxies, Part 2
+* November 24: [Properties of Local and Distant Galaxies, Part 2](https://disk.pku.edu.cn:443/link/B28B281B4C1555A2E3C07D95476B29C6)
 * December 1: Assignment/Discussion
 * December 8: The Milky Way and the Local Group
 * December 15: Assignment/Discussion
@@ -74,7 +74,7 @@ Much of learning in the class will be through the execution of group projects or
 * [Assignment 2](https://github.com/ewpeng/PKUGalaxies20/blob/master/Assignment02.md): Due October 21
 * [Assignment 3](https://github.com/ewpeng/PKUGalaxies20/blob/master/Assignment03.md): Due November 4
 * [Assignment 4](https://github.com/ewpeng/PKUGalaxies20/blob/master/Assignment04.md): Due November 23
-<!-- * [Assignment 5](https://github.com/ewpeng/PKUGalaxies19/blob/master/Assignment05.md): Due October 25
+<!-- * [Assignment 5](https://github.com/ewpeng/PKUGalaxies19/blob/master/Assignment05.md): Due December 7
 * [Assignment 6](https://github.com/ewpeng/PKUGalaxies19/blob/master/Assignment06.md): Due November 8
 * [Assignment 7](https://github.com/ewpeng/PKUGalaxies19/blob/master/Assignment07.md): Due December 2
 * [Final Project](https://github.com/ewpeng/PKUGalaxies19/blob/master/FinalProject.md): Due 5pm, December 27-->
