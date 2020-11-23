@@ -74,22 +74,20 @@ Much of learning in the class will be through the execution of group projects or
 * [Assignment 2](https://github.com/ewpeng/PKUGalaxies20/blob/master/Assignment02.md): Due October 21
 * [Assignment 3](https://github.com/ewpeng/PKUGalaxies20/blob/master/Assignment03.md): Due November 4
 * [Assignment 4](https://github.com/ewpeng/PKUGalaxies20/blob/master/Assignment04.md): Due November 23
-<!-- * [Assignment 5](https://github.com/ewpeng/PKUGalaxies19/blob/master/Assignment05.md): Due December 7
-* [Assignment 6](https://github.com/ewpeng/PKUGalaxies19/blob/master/Assignment06.md): Due November 8
-* [Assignment 7](https://github.com/ewpeng/PKUGalaxies19/blob/master/Assignment07.md): Due December 2
-* [Final Project](https://github.com/ewpeng/PKUGalaxies19/blob/master/FinalProject.md): Due 5pm, December 27-->
+* [Assignment 5](https://github.com/ewpeng/PKUGalaxies20/blob/master/Assignment05.md): Due December 7
+* [Assignment 6](https://github.com/ewpeng/PKUGalaxies20/blob/master/Assignment06.md): Due December 14
+* [Assignment 7](https://github.com/ewpeng/PKUGalaxies20/blob/master/Assignment07.md): Due December 21
+<!-- * [Final Project](https://github.com/ewpeng/PKUGalaxies19/blob/master/FinalProject.md): Due 5pm, December 27-->
 
 
 **Debates**
 
 Toward the end of the semester, we will hold debates between student groups (size of two or three). These debates will roughly 45 min long, and will be on topics of current relevance in the field of galaxy evolution and formation. The format of the debate will be as follows: each side will present their case, present a rebuttal, and be open to questions from the other side and the audience. The audience will decide the winner of the debate. Potential statements to debate:
 
-* A: Cold dark matter is incompatible with structure on galactic scales
-* B: Accretion (minor merging) is important for the formation of thick disks
-* C: AGN feedback is the primary quenching mechanism for massive galaxies
+* A: The stellar initial mass function is not universal
+* B: Cold dark matter is incompatible with structure on galactic scales
+* C: Accretion (minor merging) is important for the formation of thick disks
 * D: Halo mass is the main driver of galaxy evolution, and environment is secondary
-* E: The stellar initial mass function is not universal
-* F: Minor mergers are the primary mechanism for the size evolution of early-type galaxies since z=2.
 
 Teams (to be determined)
 
