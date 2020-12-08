@@ -59,7 +59,7 @@ A significant amount of class time will be devoted to discussion, projects/assig
 * November 17: Assignment/Discussion
 * November 24: [Properties of Local and Distant Galaxies, Part 2](https://disk.pku.edu.cn:443/link/B28B281B4C1555A2E3C07D95476B29C6)
 * December 1: Assignment/Discussion
-* December 8: The Milky Way and the Local Group
+* December 8: [The Milky Way and the Local Group](https://disk.pku.edu.cn:443/link/276C979667E1C4AB8E2E8B966B24F510)
 * December 15: Assignment/Discussion
 * December 22: Debate preparation
 * December 29: Debates
