@@ -86,7 +86,7 @@ Toward the end of the semester, we will hold debates between student groups (siz
 
 * A: The stellar initial mass function is not universal
 * B: Cold dark matter is incompatible with structure on galactic scales
-* C: Accretion (minor merging) is important for the formation of thick disks
+* C: Accretion of stars through minor merging is important for the formation of thick disks
 * D: Halo mass is the main driver of galaxy evolution, and environment is secondary
 
 Teams (to be determined)
