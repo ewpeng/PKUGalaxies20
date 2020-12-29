@@ -77,7 +77,7 @@ Much of learning in the class will be through the execution of group projects or
 * [Assignment 5](https://github.com/ewpeng/PKUGalaxies20/blob/master/Assignment05.md): Due December 7
 * [Assignment 6](https://github.com/ewpeng/PKUGalaxies20/blob/master/Assignment06.md): Due December 14
 * [Assignment 7](https://github.com/ewpeng/PKUGalaxies20/blob/master/Assignment07.md): Due December 21
-<!-- * [Final Project](https://github.com/ewpeng/PKUGalaxies19/blob/master/FinalProject.md): Due 5pm, December 27-->
+* [Final Project](https://github.com/ewpeng/PKUGalaxies20/blob/master/FinalProject.md): Due 5pm, January 12
 
 
 **Debates**
